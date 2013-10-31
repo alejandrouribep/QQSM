@@ -21,6 +21,11 @@ namespace QQSM
             this.puntaje = puntaje;
  
         }
+
+        public string get_enunciado()
+        {
+            return enunciado;
+        }
         
 
 

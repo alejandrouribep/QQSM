@@ -10,6 +10,8 @@ namespace QQSM
     {
         static void Main(string[] args)
         {
+            juego j = new juego();
+            j.cuestionario();
         }
     }
 }
