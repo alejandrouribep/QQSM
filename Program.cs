@@ -12,6 +12,7 @@ namespace QQSM
         {
             juego j = new juego();
             j.cuestionario();
+            
         }
     }
 }
