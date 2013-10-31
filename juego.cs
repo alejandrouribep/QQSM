@@ -8,5 +8,9 @@ namespace QQSM
 {
     class juego
     {
+
+
+        private void cargar_cuestionario
+
     }
 }
